@@ -1,0 +1,28 @@
+# Data
+data/
+*.csv
+*.xlsx
+*.shp
+*.gpkg
+
+# Credentials
+.env
+*.pem
+
+# ArcGIS
+*.aprx
+*.gdb/
+
+# Power BI
+*.pbix
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
